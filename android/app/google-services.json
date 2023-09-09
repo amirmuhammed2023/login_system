@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346682231079",
+    "project_id": "ecommercetwo-63b84",
+    "storage_bucket": "ecommercetwo-63b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346682231079:android:66103fe46aecaac0a5c102",
+        "android_client_info": {
+          "package_name": "com.example.ecommercetwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346682231079-u5ehgdfpl2qm0hgst5os1lcnec88lsjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQVgMb6PX5WH_gKWNsM2WTyq1Y9-FwXrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346682231079-u5ehgdfpl2qm0hgst5os1lcnec88lsjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
